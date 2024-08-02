@@ -1,0 +1,44 @@
+.favoritos_filmes{
+    margin-top: 24px;
+    
+}
+
+.favoritos_filmes h1{
+    font-size: 16px;
+}
+
+
+.favoritos_filmes ul li {
+    width: 380px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px
+}
+.favoritos_filmes ul li div{
+    display: flex;
+    justify-content: center;
+    padding-right: 30px;
+    align-items: center;
+}
+.favoritos_filmes div a{
+    text-decoration: none;
+   margin-right:10px ;
+  
+}
+.favoritos_filmes div button{
+    background-color: aqua;
+    border-radius: 12px;
+    padding: 1px;
+    font-weight: bolder;
+    border: 1px solid wheat;
+  
+}
+
+
+
+
+
+
+
